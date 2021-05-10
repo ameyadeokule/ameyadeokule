@@ -1,10 +1,6 @@
   <!-- Hi there! Feel free to make this your own but don't use my data -->
-<link rel="stylesheet" type="text/css" media="all" href="./style.css" />
+
 <div align="center">
- <div id='header'>
-  <h1>Ameya Deokule</h1>
-  <p>Front-end Developer</p>
-</div>
 
   <br>
   
