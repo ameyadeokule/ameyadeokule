@@ -1,6 +1,5 @@
   <!-- Hi there! Feel free to make this your own but don't use my data -->
-<link href="style.css" rel="stylesheet"></link>
-
+<link rel="stylesheet" type="text/css" media="all" href="./style.css" />
 <div align="center">
  <div id='header'>
   <h1>Ameya Deokule</h1>
